@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@colyseus/monitor": "^0.15.8",
+    "babylonjs": "^7.29.0",
+    "colyseus": "^0.15.17",
+    "colyseus.js": "^0.15.26",
+    "express": "^4.21.1"
+  }
+}
